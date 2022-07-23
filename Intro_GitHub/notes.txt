@@ -1,0 +1,3 @@
+#Git e GitHub
+
+###É importante praticar os comandos básicos. Isso fará com que seu processo de desenvolvimento seja mais ágil e organizado. Além disso, ao iniciar o seu trabalho em um computador que nunca utilizou Git e GitHub antes, é necessário baixar o Git e também atualizar as chaves e SSH no GitHub. 
